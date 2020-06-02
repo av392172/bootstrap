@@ -17,11 +17,18 @@
 .jumbotron{
     margin: 0px auto;
     padding: 70px 30px;
-    background-color: rgb(243, 82, 243);
+    background-color:  rgb(158, 80, 231);
     color: floralwhite;
 }
 .address{
     font-size: 80%;
     margin: 0px;
     color: black;
+}
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+}
+.navbar-dark{
+    background-color: #512DA8;
 }
