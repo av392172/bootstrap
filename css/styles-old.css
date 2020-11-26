@@ -57,3 +57,13 @@ body{
     position: absolute;
     z-index: 1;
 }
+.modal-header{
+    background-color: #512DA8;  
+    color: floralwhite; 
+}
+.modal-body{
+    background-color: rgb(222, 207, 236);     
+}
+.close{
+    color: white;
+}
